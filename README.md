@@ -18,13 +18,9 @@ Turning raw data into meaningful insights and interactive dashboards that drive 
 
 ## 🛠️ Tech Stack
 
-### Programming & Analytics
-
-![Python](https://skillicons.dev/icons?i=python)
-
-### Database
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,postgresql,mysql,mongodb,git,github,vscode,anaconda,linux,bash" />
+</p>
 
 ### Tools
 
