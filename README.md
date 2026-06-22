@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hey, I'm Rupesh Kumar
 
-<!--
-**Rupeshkumar6767/Rupeshkumar6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
 
-Here are some ideas to get you started:
+Turning raw data into meaningful insights and interactive dashboards that drive better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🔹 Passionate about Data Analytics & Business Intelligence
+🔹 Skilled in Power BI, SQL, Python, Excel, and PostgreSQL
+🔹 Building real-world analytics projects and dashboards
+🔹 Exploring Data Engineering and Advanced Analytics
+🔹 Focused on transforming complex datasets into actionable insights
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Analytics
+
+![Python](https://skillicons.dev/icons?i=python)
+
+### Database
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+### Tools
+
+* 📊 Power BI
+* 📈 Excel
+* 🗄️ SQL
+* 📓 Jupyter Notebook
+* 🐼 Pandas
+* 🔢 NumPy
+
+---
+
+## 📌 Featured Projects
+
+### 📊 HR Analytics Dashboard
+
+Analyze employee attrition, workforce demographics, employee satisfaction, and compensation trends using Power BI, SQL, and Python.
+
+### 🌍 Global Debt Analysis
+
+Exploratory Data Analysis project focused on worldwide debt patterns, economic indicators, and financial insights.
+
+### 📈 Sales Analytics Dashboard
+
+Interactive dashboard for tracking sales performance, revenue trends, customer behavior, and KPIs.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🎯 Current Goals
+
+✅ Master Advanced SQL
+
+✅ Build End-to-End Data Analytics Projects
+
+✅ Improve Power BI Storytelling Skills
+
+✅ Learn Data Engineering Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: Your LinkedIn Profile
+
+📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+🌐 Portfolio: Coming Soon
+
+---
+
+### 💡 "Without data, you're just another person with an opinion."
